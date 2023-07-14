@@ -1,0 +1,513 @@
+0.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 42.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 43.21MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 43.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 44.21MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 44.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 45.21MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 45.21MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 45.65MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 45.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 45.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 45.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿]  46.2MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿]  46.2MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 46.64MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 46.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 46.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 46.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 47.65MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 47.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣤⣿⣿⣿⣿⣿⣿] 48.37MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 48.64MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 49.37MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 49.37MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 50.07MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 50.07MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 50.79MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 51.07MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿]  51.5MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 51.77MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿]  52.5MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿]  52.5MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿] 53.21MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿] 53.21MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿] 53.93MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿] 54.22MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿] 54.66MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿] 54.94MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿] 55.65MB/70.16MB Pul
+[+] Running 7/1ayers [⠀⣿⣦⣿⣿⣿⣿⣿⣿] 28.84MB/70.16MB Pul
+[+] Running 7/1ayers [⡀⣿⣦⣿⣿⣿⣿⣿⣿] 33.41MB/70.16MB Pul
+[+] Running 7/1ayers [⣀⣿⣦⣿⣿⣿⣿⣿⣿] 38.13MB/70.16MB Pul
+[+] Running 7/1ayers [⣤⣿⣦⣿⣿⣿⣿⣿⣿] 44.32MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣦⣿⣿⣿⣿⣿⣿] 52.13MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣦⣿⣿⣿⣿⣿⣿] 52.87MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣦⣿⣿⣿⣿⣿⣿] 53.31MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿] 57.58MB/70.16MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 59.27MB/70.16MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 32.07MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 32.07MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 32.52MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 32.52MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 32.52MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 32.95MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 32.95MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 32.95MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 33.39MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 33.84MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 33.84MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 33.84MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 34.72MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 35.16MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿]  35.6MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿]  35.6MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 36.47MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 36.91MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 37.35MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿]  37.8MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿]  37.8MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 38.24MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 38.68MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 39.12MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 39.56MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿]    40MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 40.45MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 40.89MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 41.33MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 41.33MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 41.77MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 42.21MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 42.64MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⠀⣿⣿⣿⣿⣿⣿] 458.8kB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⡀⣿⣿⣿⣿⣿⣿]  7.34MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣀⣿⣿⣿⣿⣿⣿] 15.14MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣤⣿⣿⣿⣿⣿⣿] 21.56MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 27.53MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 33.49MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 41.29MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣿⣿⠀⣿⣿⣿⣿] 196.6kB/18.26MB Pul
+[+] Running 8/1ayers [⣿⣿⣿⣿⣿⣿⣿⣿⠀] 131.1kB/11.61MB Pul
+[+] Running 8/1ayers [⣿⣿⣿⣿⣿⣿⣿⣿⣤] 6.685MB/11.61MB Pul
+[+] Running 8/1ayers [⣿⣿⣿⣿⣿⣿⣿⣿⣦] 7.995MB/11.61MB Pul
+[+] Running 10/1yers [⣿⣿⣿⣿⣿⣿⣿⣿⣷] 11.01MB/11.61MB Pul
+ ✔ rabbitmq 9 layers [⣿⣿⣿⣿⣿⣿⣿⣿⣿]      0B/0B      Pulled 34.9s 
+[+] Building 1.0s (17/17) FINISHED                  
+ => [srv1 internal] load .dockerignore         0.0s
+ => => transferring context: 92B               0.0s
+ => [srv1 internal] load build definition fro  0.0s
+ => => transferring dockerfile: 168B           0.0s
+ => [srv1 internal] load metadata for docker.  0.9s
+ => [srv2 internal] load .dockerignore         0.0s
+ => => transferring context: 92B               0.0s
+ => [srv2 internal] load build definition fro  0.0s
+ => => transferring dockerfile: 168B           0.0s
+ => [srv1 internal] load build context         0.0s
+ => => transferring context: 163B              0.0s
+ => [srv2 1/5] FROM docker.io/library/node:20  0.0s
+ => [srv2 internal] load build context         0.0s
+ => => transferring context: 163B              0.0s
+ => CACHED [srv2 2/5] WORKDIR /app             0.0s
+ => CACHED [srv1 3/5] COPY ./package*.json ./  0.0s
+ => CACHED [srv1 4/5] RUN npm install          0.0s
+ => CACHED [srv1 5/5] COPY . .                 0.0s
+ => CACHED [srv2 3/5] COPY ./package*.json ./  0.0s
+ => CACHED [srv2 4/5] RUN npm install          0.0s
+ => CACHED [srv2 5/5] COPY . .                 0.0s
+ => [srv1] exporting to image                  0.0s
+ => => exporting layers                        0.0s
+ => => writing image sha256:c785230c11cef71f8  0.0s
+ => => naming to docker.io/library/docker-srv  0.0s
+ => [srv2] exporting to image                  0.0s
+ => => exporting layers                        0.0s
+ => => writing image sha256:b6b63dfe69fc5b949  0.0s
+ => => naming to docker.io/library/docker-srv  0.0s
+[+] Running 4/4
+ ✔ Network docker_node-srv-network  Created    0.0s 
+ ✔ Container docker-rabbitmq-1      Started    0.5s 
+ ✔ Container srv-two-container      Started    0.7s 
+ ✔ Container srv-one-container      Started    0.7s 
+Sagar-kennect@sagars-MacBook-Air server1 % docker-compose down
+[+] Running 4/4
+ ✔ Container srv-one-container      Removed   10.2s 
+ ✔ Container srv-two-container      Removed   10.2s 
+ ✔ Container docker-rabbitmq-1      Removed    2.3s 
+ ✔ Network docker_node-srv-network  Removed    0.0s 
+Sagar-kennect@sagars-MacBook-Air server1 % docker-compose up -d
+[+] Running 0/1
+[+] Running 0/1ayers [⠀⠀⠀⠀⠀⠀⠀⠀⠀]      0B/0B      Pul
+[+] Running 0/1ayers [⠀⠀⠀⠀⠀⠀⠀⠀⠀]      0B/0B      Pul
+[+] Running 0/1ayers [⠀⠀⠀⠀⠀⠀⠀⠀⠀]      0B/0B      Pul
+[+] Running 0/1ayers [⠀⠀⠀⠀⠀⠀⠀⠀⠀]      0B/0B      Pul
+[+] Running 0/1ayers [⠀⠀⠀⠀⠀⠀⠀⠀⠀]      0B/0B      Pul
+[+] Running 0/1ayers [⠀⠀⠀⠀⠀⠀⠀⠀⠀]      0B/0B      Pul
+[+] Running 0/1ayers [⠀⠀⠀⠀⠀⠀⠀⠀⠀]      0B/0B      Pul
+[+] Running 0/1ayers [⠀⠀⠀⠀⠀⠀⠀⠀⠀] 8.214kB/699.2kB Pul
+[+] Running 0/1ayers [⠀⣀⠀⠀⠀⠀⠀⠀⠀] 470.3kB/27.89MB Pul
+[+] Running 0/1ayers [⠀⣀⠀⠀⠀⠀⠀⠀⠀] 470.3kB/27.89MB Pul
+[+] Running 0/1ayers [⠀⣀⠀⠀⠀⠀⠀⠀⠀] 494.6kB/27.89MB Pul
+[+] Running 0/1ayers [⠀⣀⠀⠀⠀⠀⠀⠀⠀] 817.5kB/27.89MB Pul
+[+] Running 1/1ayers [⠀⣀⠀⠀⠀⠀⠀⠀⠀] 817.5kB/27.89MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 1.276MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 1.276MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀]  2.12MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀]  2.12MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 2.841MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 3.685MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 3.685MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 4.118MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 4.397MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 4.397MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 4.397MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 5.118MB/70.16MB Pul
+[+] Running 1/1ayers [⠀⣿⠀⠀⠀⠀⠀⠀⠀] 5.118MB/70.16MB Pul
+[+] Running 1/1ayers [⡀⣿⠀⠀⠀⠀⠀⠀⠀] 5.396MB/70.16MB Pul
+[+] Running 1/1ayers [⡀⣿⠀⠀⠀⠀⠀⠀⠀] 5.838MB/70.16MB Pul
+[+] Running 1/1ayers [⡀⣿⠀⠀⠀⠀⠀⠀⠀] 6.117MB/70.16MB Pul
+[+] Running 1/1ayers [⡀⣿⠀⠀⠀⠀⠀⠀⠀] 6.117MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⠀⠀⠀⠀⠀⠀] 6.391MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 6.825MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 7.103MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 7.541MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 7.828MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 8.107MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 8.828MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 8.828MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 9.553MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 9.831MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 10.55MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 10.55MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 10.83MB/70.16MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 11.45MB/88.42MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 11.45MB/88.42MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 12.12MB/88.42MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 12.51MB/88.42MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 12.51MB/88.42MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀]  12.9MB/88.42MB Pul
+[+] Running 2/1ayers [⡀⣿⠀⣿⠀⠀⠀⠀⠀] 13.73MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⠀⣿⠀⠀⠀⠀⠀] 14.01MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⠀⣿⠀⠀⠀⠀⠀] 14.41MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⠀⣿⡀⠀⠀⠀⠀]  14.8MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⠀⣿⡀⠀⠀⠀⠀]  14.8MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⠀⣿⡀⠀⠀⠀⠀] 15.19MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⠀⣿⡀⠀⠀⠀⠀] 15.87MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⠀⣿⡀⠀⠀⠀⠀] 16.26MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⡀⠀⠀⠀⠀] 17.08MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⡀⠀⠀⠀⠀] 17.08MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⡀⠀⠀⠀⠀] 17.48MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣀⠀⠀⠀⠀] 17.87MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣀⠀⠀⠀⠀] 18.53MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣀⠀⠀⠀⠀] 18.53MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣀⠀⠀⠀⠀] 18.92MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣀⠀⠀⠀⠀] 19.31MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣀⠀⠀⠀⠀] 19.71MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣀⠀⠀⠀⠀] 20.09MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣀⠀⠀⠀⠀] 20.09MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣄⠀⠀⠀⠀] 21.21MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣄⠀⠀⠀⠀]  21.6MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣄⠀⠀⠀⠀]  21.6MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣄⠀⠀⠀⠀] 21.99MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣄⠀⠀⠀⠀] 22.18MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣄⠀⠀⠀⠀] 22.18MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣄⠀⠀⠀⠀] 22.37MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣄⠀⠀⠀⠀] 22.77MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣄⠀⠀⠀⠀] 22.96MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 23.16MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 23.16MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 23.55MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 23.55MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 24.23MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 24.63MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 24.63MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 25.45MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 25.85MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣤⠀⠀⠀⠀] 26.13MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 26.51MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 26.89MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 27.17MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 28.01MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 28.01MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 28.67MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 28.67MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 29.07MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 29.98MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 30.17MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣦⠀⠀⠀⠀] 30.64MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣶⠀⠀⠀⠀] 30.84MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣶⠀⠀⠀⠀] 31.27MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣶⠀⠀⠀⠀] 31.75MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣶⠀⠀⠀⠀] 31.94MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣶⠀⠀⠀⠀] 32.67MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣶⠀⠀⠀⠀] 32.86MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣶⠀⠀⠀⠀] 33.33MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣶⠀⠀⠀⠀] 33.97MB/88.42MB Pul
+[+] Running 2/1ayers [⣀⣿⡀⣿⣶⠀⠀⠀⠀] 33.97MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣶⠀⠀⠀⠀] 34.44MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣶⠀⠀⠀⠀] 35.06MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣶⠀⠀⠀⠀] 35.33MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣶⠀⠀⠀⠀] 35.53MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣶⠀⠀⠀⠀] 36.17MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣶⠀⠀⠀⠀] 36.46MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣶⠀⠀⠀⠀] 36.65MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣶⠀⠀⠀⠀] 37.29MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣶⠀⠀⠀⠀] 37.57MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣷⠀⠀⠀⠀] 37.77MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣷⠀⠀⠀⠀] 38.67MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣷⠀⠀⠀⠀] 38.67MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⡀⣿⣷⠀⠀⠀⠀] 39.15MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 39.79MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 39.79MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 40.27MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 40.27MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 40.27MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀]  40.9MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 41.18MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 41.38MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 41.38MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 41.38MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 41.58MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 41.85MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀]  42.3MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 42.49MB/88.42MB Pul
+[+] Running 2/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 42.96MB/88.42MB Pul
+[+] Running 3/1ayers [⣄⣿⣀⣿⣷⠀⠀⠀⠀] 43.44MB/88.42MB Pul
+[+] Running 3/1ayers [⣤⣿⣀⣿⣿⠀⠀⠀⠀] 25.56MB/70.16MB Pul
+[+] Running 3/1ayers [⣤⣿⣀⣿⣿⠀⠀⠀⠀] 25.56MB/70.16MB Pul
+[+] Running 3/1ayers [⣤⣿⣀⣿⣿⠀⠀⠀⠀] 26.27MB/70.16MB Pul
+[+] Running 3/1ayers [⣤⣿⣀⣿⣿⠀⠀⠀⠀] 26.55MB/70.16MB Pul
+[+] Running 3/1ayers [⣤⣿⣀⣿⣿⠀⠀⠀⠀] 27.26MB/70.16MB Pul
+[+] Running 3/1ayers [⣤⣿⣀⣿⣿⠀⠀⠀⠀] 27.55MB/70.16MB Pul
+[+] Running 3/1ayers [⣤⣿⣀⣿⣿⠀⠀⠀⠀] 27.55MB/70.16MB Pul
+[+] Running 4/1ayers [⣤⣿⣀⣿⣿⠀⠀⠀⠀] 28.25MB/70.16MB Pul
+[+] Running 4/1ayers [⣤⣿⣀⣿⣿⣿⠀⠀⠀] 28.53MB/70.16MB Pul
+[+] Running 4/1ayers [⣤⣿⣀⣿⣿⣿⠀⠀⠀] 29.25MB/70.16MB Pul
+[+] Running 4/1ayers [⣤⣿⣀⣿⣿⣿⠀⠀⠀] 29.25MB/70.16MB Pul
+[+] Running 4/1ayers [⣤⣿⣀⣿⣿⣿⠀⠀⠀] 29.97MB/70.16MB Pul
+[+] Running 4/1ayers [⣤⣿⣀⣿⣿⣿⠀⠀⠀] 30.25MB/70.16MB Pul
+[+] Running 4/1ayers [⣤⣿⣀⣿⣿⣿⠀⠀⠀] 30.69MB/70.16MB Pul
+[+] Running 4/1ayers [⣤⣿⣀⣿⣿⣿⠀⠀⠀] 30.97MB/70.16MB Pul
+[+] Running 5/1ayers [⣤⣿⣀⣿⣿⣿⠀⠀⠀]  31.4MB/70.16MB Pul
+[+] Running 5/1ayers [⣤⣿⣀⣿⣿⣿⣿⠀⠀] 31.68MB/70.16MB Pul
+[+] Running 5/1ayers [⣤⣿⣀⣿⣿⣿⣿⠀⠀] 31.96MB/70.16MB Pul
+[+] Running 5/1ayers [⣤⣿⣀⣿⣿⣿⣿⠀⠀]  32.4MB/70.16MB Pul
+[+] Running 5/1ayers [⣦⣿⣀⣿⣿⣿⣿⠀⠀] 32.68MB/70.16MB Pul
+[+] Running 5/1ayers [⣦⣿⣀⣿⣿⣿⣿⠀⠀]  33.4MB/70.16MB Pul
+[+] Running 5/1ayers [⣦⣿⣀⣿⣿⣿⣿⠀⠀]  33.4MB/70.16MB Pul
+[+] Running 5/1ayers [⣦⣿⣀⣿⣿⣿⣿⠀⠀] 34.13MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣀⣿⣿⣿⣿⠀⠀] 34.41MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 34.85MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 35.12MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 35.57MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 35.57MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 35.85MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 35.85MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 35.85MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 36.29MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 36.57MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 36.57MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 36.57MB/70.16MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 36.69MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 36.95MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 37.34MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 38.06MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 38.32MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⠀] 38.32MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⡀] 38.96MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⡀] 39.48MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⡀] 39.87MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣀] 40.27MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣀] 40.65MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣀] 40.93MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣀] 41.31MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣀]  41.7MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣄] 42.09MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣄] 42.92MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣄] 43.31MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣄]  43.7MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣄]  43.7MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣤] 44.38MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣤] 44.51MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣤] 45.16MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣤] 45.29MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣤] 45.29MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣦] 45.82MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣦] 46.75MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣦] 46.75MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣦] 47.14MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣶] 47.81MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣶]  48.2MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣶]  48.2MB/81.77MB Pul
+[+] Running 6/1ayers [⣦⣿⣄⣿⣿⣿⣿⣿⣶] 48.58MB/81.77MB Pul
+[+] Running 6/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣶] 49.24MB/81.77MB Pul
+[+] Running 6/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣶] 49.24MB/81.77MB Pul
+[+] Running 6/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣷] 49.63MB/81.77MB Pul
+[+] Running 6/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣷] 50.08MB/81.77MB Pul
+[+] Running 6/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣷] 50.08MB/81.77MB Pul
+[+] Running 6/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣷] 50.47MB/81.77MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣷] 50.75MB/81.77MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 40.12MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 40.12MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿]  40.4MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿]  40.4MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 40.68MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 41.12MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 41.39MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 41.39MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 41.67MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿]  42.1MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 42.38MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 42.66MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿]  43.1MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 43.38MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 43.38MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿]  44.1MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿]  44.1MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 44.38MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣄⣿⣿⣿⣿⣿⣿] 44.82MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣄⣿⣿⣿⣿⣿⣿]  45.1MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 45.54MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 45.82MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 45.82MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 46.54MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 46.54MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 47.25MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 47.25MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 47.53MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 47.81MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 47.81MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 48.52MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 48.52MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 49.23MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 49.23MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 49.23MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 49.95MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 49.95MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 50.67MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 50.67MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿]  51.4MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿]  51.4MB/70.16MB Pul
+[+] Running 8/1ayers [⣷⣿⣤⣿⣿⣿⣿⣿⣿] 52.12MB/70.16MB Pul
+[+] Running 7/1ayers [⣿⣿⣤⣿⣿⣿⣿⣿⣿] 25.05MB/42.97MB Pul
+[+] Running 7/1ayers [⠀⣿⣤⣿⣿⣿⣿⣿⣿] 25.78MB/70.16MB Pul
+[+] Running 7/1ayers [⡀⣿⣤⣿⣿⣿⣿⣿⣿] 29.76MB/70.16MB Pul
+[+] Running 7/1ayers [⣀⣿⣤⣿⣿⣿⣿⣿⣿] 34.78MB/70.16MB Pul
+[+] Running 7/1ayers [⣤⣿⣤⣿⣿⣿⣿⣿⣿] 42.74MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣦⣿⣿⣿⣿⣿⣿] 49.07MB/70.16MB Pul
+[+] Running 7/1ayers [⣶⣿⣦⣿⣿⣿⣿⣿⣿] 49.66MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿] 52.46MB/70.16MB Pul
+[+] Running 7/1ayers [⣷⣿⣦⣿⣿⣿⣿⣿⣿]  52.9MB/70.16MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 55.75MB/70.16MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 28.99MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 29.43MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 29.87MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 29.87MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 30.32MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 30.76MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 30.76MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿]  31.2MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 31.64MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 31.64MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣦⣿⣿⣿⣿⣿⣿] 32.09MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 32.53MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 32.53MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 32.96MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿]  33.4MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿]  33.4MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 33.84MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 34.28MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 34.28MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 34.71MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 34.71MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 35.15MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 35.59MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 35.59MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 36.03MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 36.48MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 36.92MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 37.36MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿]  37.8MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿]  37.8MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 38.24MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 38.67MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿]  39.1MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 39.55MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 39.99MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 40.43MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 40.87MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 41.31MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 41.31MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 41.75MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿]  42.2MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣷⣿⣿⣿⣿⣿⣿] 42.64MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⠀⣿⣿⣿⣿⣿⣿] 458.8kB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⠀⣿⣿⣿⣿⣿⣿] 5.505MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣀⣿⣿⣿⣿⣿⣿] 15.14MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣄⣿⣿⣿⣿⣿⣿] 19.73MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣤⣿⣿⣿⣿⣿⣿] 27.07MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣶⣿⣿⣿⣿⣿⣿] 33.49MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣿⣿⣿⣿⣿⣿⣿] 42.97MB/42.97MB Pul
+[+] Running 8/1ayers [⣿⣿⣿⣿⣿⣿⣿⣿⣿] 18.26MB/18.26MB Pul
+[+] Running 8/1ayers [⣿⣿⣿⣿⣿⣿⣿⣿⠀] 131.1kB/11.61MB Pul
+[+] Running 8/1ayers [⣿⣿⣿⣿⣿⣿⣿⣿⣤] 7.078MB/11.61MB Pul
+[+] Running 10/1yers [⣿⣿⣿⣿⣿⣿⣿⣿⣦] 8.389MB/11.61MB Pul
+[+] Running 10/1yers [⣿⣿⣿⣿⣿⣿⣿⣿⣿]      0B/0B      Pul
+ ✔ rabbitmq 9 layers [⣿⣿⣿⣿⣿⣿⣿⣿⣿]      0B/0B      Pulled 35.3s 
+[+] Building 2.9s (18/18) FINISHED                  
+ => [srv2 internal] load .dockerignore         0.0s
+ => => transferring context: 92B               0.0s
+ => [srv2 internal] load build definition fro  0.0s
+ => => transferring dockerfile: 168B           0.0s
+ => [srv2 internal] load metadata for docker.  2.6s
+ => [srv1 internal] load build definition fro  0.0s
+ => => transferring dockerfile: 168B           0.0s
+ => [srv1 internal] load .dockerignore         0.0s
+ => => transferring context: 92B               0.0s
+ => [srv2 auth] library/node:pull token for r  0.0s
+ => [srv1 1/5] FROM docker.io/library/node:20  0.0s
+ => [srv2 internal] load build context         0.0s
+ => => transferring context: 163B              0.0s
+ => [srv1 internal] load build context         0.0s
+ => => transferring context: 1.02kB            0.0s
+ => CACHED [srv2 2/5] WORKDIR /app             0.0s
+ => CACHED [srv1 3/5] COPY ./package*.json ./  0.0s
+ => CACHED [srv1 4/5] RUN npm install          0.0s
+ => [srv1 5/5] COPY . .                        0.3s
+ => CACHED [srv2 3/5] COPY ./package*.json ./  0.0s
+ => CACHED [srv2 4/5] RUN npm install          0.0s
+ => CACHED [srv2 5/5] COPY . .                 0.0s
+ => [srv2] exporting to image                  0.0s
+ => => exporting layers                        0.0s
+ => => writing image sha256:b6b63dfe69fc5b949  0.0s
+ => => naming to docker.io/library/docker-srv  0.0s
+ => [srv1] exporting to image                  0.0s
+ => => exporting layers                        0.0s
+ => => writing image sha256:92ddbf40b222965b3  0.0s
+ => => naming to docker.io/library/docker-srv  0.0s
+[+] Running 4/4
+ ✔ Network docker_node-srv-network  Created    0.0s 
+ ✔ Container docker-rabbitmq-1      Started    0.3s 
+ ✔ Container srv-one-container      Started    0.6s 
+ ✔ Container srv-two-container      Started    0.7s 
+Sagar-kennect@sagars-MacBook-Air server1 % cd ..
+Sagar-kennect@sagars-MacBook-Air docker % cd server2
+
+Sagar-kennect@sagars-MacBook-Air server2 % ls
+Dockerfile              package.json
+node_modules            server.js
+package-lock.json
+Sagar-kennect@sagars-MacBook-Air server2 % npm install amqplib
+
+added 13 packages, and audited 106 packages in 1s
+
+11 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Sagar-kennect@sagars-MacBook-Air server2 % ls  
+Dockerfile              package-lock.json      server.js
+node_modules            package.json
+Sagar-kennect@sagars-MacBook-Air server2 % cd ..
+Sagar-kennect@sagars-MacBook-Air docker % ls
+docker-compose.yml      server1
+rabbitMq                server2
+Sagar-kennect@sagars-MacBook-Air docker % 

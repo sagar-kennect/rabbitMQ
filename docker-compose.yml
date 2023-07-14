@@ -1,0 +1,43 @@
+version: '3'
+services:
+  srv1:
+    build:
+      context: './server1'
+      dockerfile: Dockerfile
+    ports:
+      - 4001:4001
+    container_name: srv-one-container
+    environment:
+      - WATCHPACK_POLLING=true
+    networks:
+      - node-srv-network
+    volumes:
+      - ./server1:/app
+    depends_on:
+      - rabbitmq
+  srv2:
+    build:
+      context: './server2'
+      dockerfile: Dockerfile
+    ports:
+      - 4002:4002
+    container_name: srv-two-container
+    environment:
+      - WATCHPACK_POLLING=true
+    networks:
+      - node-srv-network
+    volumes:
+      - ./server2:/app
+    depends_on:
+      - rabbitmq
+  rabbitmq:
+    image: rabbitmq:3.8-management
+    ports:
+      - '5672:5672'
+      - '15672:15672'
+    networks:
+      - node-srv-network
+
+networks:
+  node-srv-network:
+    driver: bridge
